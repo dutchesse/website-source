@@ -1,0 +1,11 @@
+{{>blog-header}}
+  <div class="page-content">
+    {{#each pages}}
+      <h2><a href="{{ basename }}{{ ext }}">{{ data.title }}</a></h2>
+      {{#markdown}}
+        {{ page }}
+      {{/markdown}}
+    {{/each}}
+    <p><a href="../index.html">Home</a></p>
+  </div>
+{{>site-footer}}

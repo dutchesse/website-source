@@ -1,0 +1,17 @@
+# =============================================
+# Build config
+# =============================================
+
+root:             dutchesse.github.io
+dest:             <%= site.root %>
+blog:             <%= site.root %>/blog
+assets:           <%= site.dest %>/assets
+
+# Data
+data:             data/*.{json,yml}
+content:          src/content
+
+# Templates
+templates:        src/templates
+partials:         <%= site.templates %>/partials/*.hbs
+layouts:          <%= site.templates %>/layouts
