@@ -3,7 +3,7 @@ echo "Building website"
 grunt
 
 echo "Commiting changes to website source"
-git add .
+git add --all .
 git commit -m "Add new blog entries"
 echo "Pushing source changes to GitHub"
 git push origin master
