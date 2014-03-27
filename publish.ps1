@@ -14,5 +14,3 @@ git add .
 git commit -m "Add new blog entries"
 echo "Pushing changes to GitHub"
 git push origin master
-
-pause
