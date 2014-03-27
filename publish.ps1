@@ -1,4 +1,4 @@
-cd "C:\Users\donsm_000\repos\website-source"
+cd "C:\Users\Esse\Documents\GitHub\website-source"
 echo "Building website"
 grunt
 
@@ -15,3 +15,4 @@ git commit -m "Add new blog entries"
 echo "Pushing changes to GitHub"
 git push origin master
 
+pause
