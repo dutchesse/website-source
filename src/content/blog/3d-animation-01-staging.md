@@ -4,9 +4,7 @@ posted: 2014-03-12
 ---
 
 #Intro to 3D Animation#
-##March 12, 2014##
-
-###Week 02: Motion Curves, we all have one###
+##Week 02: Motion Curves, we all have one##
 
 Today we discussed the Motion Curve. we are to sketch out  
 

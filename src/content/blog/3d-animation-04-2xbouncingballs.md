@@ -1,12 +1,10 @@
 ---
 title: "2 Bouncing balls"
-posted: 2014-03-31
+posted: 2014-03-26
 ---
 
 #Intro to 3D Animation#
-##March 31, 2014##
-
-###2 Bouncing Balls###
+##Week 4 - 2 Bouncing Balls##
 
 Trying to get 2 balls to interact with each other without the physics function is not easy.
 Maya has physics functions that simulates the real world and lets you interact objects fairly accurately, but for the sake of "getting a real feel of timing/spacing" our assignment is to make these balls interact from scratch.

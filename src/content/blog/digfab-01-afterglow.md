@@ -4,9 +4,7 @@ posted: 2014-03-04
 ---
 
 #Digital Fabrication#
-###Week 1 - March 4, 2014###
-
-###[Afterglow][1]###
+##Week 1 - [Afterglow][1]##
 
 James is back, apparently he had a little Tiki Tour type sabatical over hte last couple of months and had spend some time in various places in Europe.
 Good to have him back :)

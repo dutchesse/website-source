@@ -4,9 +4,7 @@ posted: 2014-03-19
 ---
 
 #Intro to 3D Animation#
-##March 19, 2014##
-
-###Bouncing a ball, not as easy as it sounds###
+##Week 3 - Bouncing a ball, not as easy as it sounds##
 
 **First step, getting the ball to bounce up/down**   
 - Create a sphere  

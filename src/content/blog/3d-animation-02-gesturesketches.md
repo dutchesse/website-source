@@ -1,15 +1,13 @@
 ---
 title: "Gesture Sketches"
-posted: 2014-03-12
+posted: 2014-03-19
 ---
 
 #Intro to 3D Animation#
-##Week 3 - March 19, 2014##
-
-###Gesture Sketches###
+##Week 3 - Gesture Sketches##
 
  check brief 
 
 #####Casual#####
-![Casual](http://i.imgur.com/mtRYvds.jpg)
+![Casual](http://i.imgur.com/AjGdsGE.jpg?2)
 

@@ -4,11 +4,9 @@ posted: 2014-03-12
 ---
 
 #Intro to 3D Animation#
-##Week 1 - March 12, 2014##
+##Week 1 - Course Blog##
 
-###[Course Blog][1]###
-
-Mat has set us up with Course Blog to make it easier for us to see everything into one place.  
+Mat has set us up with [Course Blog][1] to make it easier for us to see everything into one place.  
 I wish we did not have to log in every time but I understand the security issues for AUT.
 
 Jason created a short [video][2] on how to render out a poses with Bony.

@@ -4,9 +4,7 @@ posted: 2014-03-27
 ---
 
 #Transdisciplinary Inquiries#
-##March 27, 2014##
-
-###Creating the [BCT][2] Portfolio###
+##Creating the [BCT][2] Portfolio##
 
 I am venturing out in the world of web creation.
 I have dabbled in it before by using [WordPress][1]. And yes, the templates make it easy to built a site, but they always seem to block me from customizing the page the way I think I should be able to.  In WordPress's defense, I simply did not know enough about HTML, CSS and other related foreign abbreviations to make the changes I desired.

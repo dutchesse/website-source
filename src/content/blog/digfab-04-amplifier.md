@@ -1,12 +1,10 @@
 ---
 title: "Amplifier"
-posted: 2014-03-04
+posted: 2014-03-25
 ---
 
 #Digital Fabrication#
-##Week 1 - March 4, 2014##
-
-###Amplifier###
+##Week 4 - Amplifier##
 
 These shapes appealed the most to me. It is obvious I like organic surfaces and things with holes in them I guess.
 Out of these we are to create 15 iteration sketches  to see if we can make an improved version
